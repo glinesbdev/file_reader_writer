@@ -6,7 +6,7 @@ The main binary is a CLI application that will write some text to a file.
 
 ## Usage
 
-```rust
+```shell
 File Reader Writer - 0.1.0
 
 Usage: file_reader_writer [filepath] [contents] [OPTIONS]
