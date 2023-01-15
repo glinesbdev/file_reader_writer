@@ -18,5 +18,4 @@ Options:
                         Ignores --append option when used.
     -np, --no-print     No printing to stdout.
     -h, --help          Shows this help screen.
-            "#
 ```
