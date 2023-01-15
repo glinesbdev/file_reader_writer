@@ -1,0 +1,17 @@
+[package]
+name = "file_reader_writer"
+version = "0.1.0"
+edition = "2021"
+authors = ["Bradyn Glines <glinesbdev@gmail.com>"]
+description = "A CLI application that writes data to a file and prints the output."
+
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+clap = { version = "4.0.32", features = ["derive"] }
+
+[dev-dependencies]
+assert_cmd = "2.0.7"
+predicates = "2.1.5"
+assert_fs = "1.0.10"
