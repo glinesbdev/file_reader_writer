@@ -114,7 +114,7 @@ Options:
     -a, --append        Appends new [contents] to the [filepath] file.
     -t, --truncate      Truncates the [filepath] file before writing [contents] to it.
                         Ignores --append option when used.
-    -np, --no-print     Doesn't print the output of the file after writing.
+    -np, --no-print     No printing to stdout.
     -h, --help          Shows this help screen.
             "#
         );
